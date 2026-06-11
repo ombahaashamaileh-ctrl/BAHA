@@ -7,7 +7,7 @@
 // ⚙️  CONFIG  ← ضع Client ID هنا
 // ──────────────────────────────────────────────
 const CONFIG = {
-  CLIENT_ID: 'YOUR_GOOGLE_CLIENT_ID_HERE',   // 🔴 ضع Client ID هنا
+  CLIENT_ID: '632630557064-cmf14at54ta4a2j0ls0ske386tgepspk.apps.googleusercontent.com',   // 🔴 ضع Client ID هنا
   SCOPES: 'https://www.googleapis.com/auth/drive.file',
   APP_FOLDER_NAME: 'ProductPriceAssistant',
   JSON_FILE_NAME: 'products.json',
